@@ -84,7 +84,10 @@
 					 https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
 
 					 https://www.lynda.com/CSS-tutorials/Building-your-own-mixins/182174/193666-4.html
-	
+
+
+
+# JS logic training
 	
 	-------------------------------- JS LOGIC TRAINING --------------------------------------
 	
