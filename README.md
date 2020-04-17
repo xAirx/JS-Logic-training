@@ -12,36 +12,18 @@
           
 	  ---------------------------   W3 resource  640 exercises -------------------------- 
           ## Readup exercises
-	      
+	      	
+		https://www.w3resource.com/javascript-exercises/
 			
 			
 		    ------------------- 416 exercises -----------------------
+		    
 		    JavaScript Basic [ 150 Exercises with Solution ]
 		    JavaScript Fundamental (ES6 version) [ 150 Exercises  ]
 		    JavaScript Fundamental (ES6 version) [ 116 Exercises  ]
 		    
 
-            ---------------------------  Goals  -------------------------- 
-	    
-	    Exercises are on codepen here:
-	    
-	    
-			  ## Complete 500+ exercises related to the topics  ( ~230 done )
-
-
-				 ## "Advanced working with functions"
-
-				 1. Recursion and stack
-
-				 Fibbonachi sequence
-				     https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053
-
-				## Exercises: 
-
-				https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
-
-		
-
+       
 
 	------------------------ Best Practices and Functional Programming  ------------------------
 
